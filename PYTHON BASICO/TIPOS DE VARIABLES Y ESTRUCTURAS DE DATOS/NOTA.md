@@ -86,3 +86,11 @@ Los **diccionarios** (`dict`) son colecciones de pares **clave-valor**. Son idea
 persona = {"nombre": "Juan", "edad": 28, "profesion": "ingeniero"}
 print(persona["nombre"])  # Accede al valor de la clave "nombre", en este caso "Juan"
 ```
+
+## Verificar el Tipo de Dato 
+Puedes usar la función type() para saber qué tipo de dato tiene una variable:
+
+```python
+print(type(nombre))  # Resultado: <class 'str'>
+print(type(edad))    # Resultado: <class 'int'>
+```
