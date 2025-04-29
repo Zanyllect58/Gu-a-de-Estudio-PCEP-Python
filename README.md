@@ -1,6 +1,6 @@
 # Guia-de-Estudio-Python
 <p align="center">
-  <img src="1.jpg" width="200"/>
+  <img src="1.png" width="200"/>
 </p>
 Este repositorio contiene una guía de estudio en constante crecimiento, comenzando con un curso de programación básica en Python. Aunque probablemente ya exista contenido sobre este tema, mi objetivo es reunir todo el conocimiento posible en español y compartir la manera en que yo aprendo las cosas. El contenido está diseñado para ofrecer un espacio organizado donde puedas acceder a todo el material necesario para estudiar sin perder tiempo buscando recursos. Los temas tratados están enfocados en obtener certificados valiosos, según mi opinión personal.
 
